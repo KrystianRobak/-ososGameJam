@@ -1,0 +1,55 @@
+<<<<<<< HEAD
+;METADATA=(Diff=true, UseCommands=true)
+[/Script/GameplayTags.GameplayTagsSettings]
+ImportTagsFromConfig=True
+WarnOnInvalidTags=True
+ClearInvalidTags=False
+AllowEditorTagUnloading=True
+AllowGameTagUnloading=False
+FastReplication=False
+bDynamicReplication=False
+InvalidTagCharacters="\"\',"
+NumBitsForContainerSize=6
+NetIndexFirstBitSegment=16
++GameplayTagList=(Tag="Item",DevComment="")
++GameplayTagList=(Tag="Item.Bazylia",DevComment="")
++GameplayTagList=(Tag="Item.Diary",DevComment="")
++GameplayTagList=(Tag="Item.kartka1",DevComment="")
++GameplayTagList=(Tag="Item.kartka2",DevComment="")
++GameplayTagList=(Tag="Item.kartka3",DevComment="")
++GameplayTagList=(Tag="Item.olej",DevComment="")
++GameplayTagList=(Tag="Item.opium",DevComment="")
++GameplayTagList=(Tag="Item.Shovel",DevComment="")
++GameplayTagList=(Tag="Item.SummonCircle",DevComment="")
++GameplayTagList=(Tag="Item.Tymianek",DevComment="")
++GameplayTagList=(Tag="Item.wosk",DevComment="")
++GameplayTagList=(Tag="Item.wrotycz",DevComment="")
+
+=======
+;METADATA=(Diff=true, UseCommands=true)
+[/Script/GameplayTags.GameplayTagsSettings]
+ImportTagsFromConfig=True
+WarnOnInvalidTags=True
+ClearInvalidTags=False
+AllowEditorTagUnloading=True
+AllowGameTagUnloading=False
+FastReplication=False
+bDynamicReplication=False
+InvalidTagCharacters="\"\',"
+NumBitsForContainerSize=6
+NetIndexFirstBitSegment=16
++GameplayTagList=(Tag="Item",DevComment="")
++GameplayTagList=(Tag="Item.Bazylia",DevComment="")
++GameplayTagList=(Tag="Item.Diary",DevComment="")
++GameplayTagList=(Tag="Item.kartka1",DevComment="")
++GameplayTagList=(Tag="Item.kartka2",DevComment="")
++GameplayTagList=(Tag="Item.kartka3",DevComment="")
++GameplayTagList=(Tag="Item.olej",DevComment="")
++GameplayTagList=(Tag="Item.opium",DevComment="")
++GameplayTagList=(Tag="Item.Shovel",DevComment="")
++GameplayTagList=(Tag="Item.SummonCircle",DevComment="")
++GameplayTagList=(Tag="Item.Tymianek",DevComment="")
++GameplayTagList=(Tag="Item.wosk",DevComment="")
++GameplayTagList=(Tag="Item.wrotycz",DevComment="")
+
+>>>>>>> 487f1c07cd05411c489fc4f9605193ae5b388195
